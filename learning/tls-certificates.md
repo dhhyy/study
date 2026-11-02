@@ -1,7 +1,7 @@
 ---
 title: "TLS Certificates: Fundamentals, Issuance, and Renewal"
 type: learning
-status: ready
+status: published
 created:
 updated: 2026-11-02
 tags:
@@ -10,7 +10,7 @@ tags:
   - https
   - certbot
   - nginx
-published_url:
+published_url: https://github.com/dhhyy/study/blob/develop/learning/tls-certificates.md
 ---
 
 # TLS Certificates: Fundamentals, Issuance, and Renewal
