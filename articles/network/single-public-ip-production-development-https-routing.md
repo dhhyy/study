@@ -1,13 +1,13 @@
 ---
 title: "공인 IP 하나에서 운영·개발 HTTPS를 분리하기 어려운 이유"
 type: article
-status: ready
+status: published
 created: 2026-11-02
 updated: 2026-11-02
 tags:
   - network
   - infrastructure
-published_url:
+published_url: https://github.com/dhhyy/study/blob/develop/articles/network/single-public-ip-production-development-https-routing.md
 ---
 # 공인 IP 하나에서 운영·개발 HTTPS를 분리하기 어려운 이유
 

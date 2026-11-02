@@ -1,13 +1,13 @@
 ---
 title: "회사에서 운영 중인 환경으로 네트워크 이해하기"
 type: article
-status: ready
+status: published
 created: 2026-11-02
 updated: 2026-11-02
 tags:
   - network
   - infrastructure
-published_url:
+published_url: https://github.com/dhhyy/study/blob/develop/articles/network/network-infrastructure-understanding.md
 ---
 <h1 style="text-align: center;">회사에서 운영 중인 환경으로 네트워크 이해하기</h1>
 회사망에서 시작한 요청이 FortiGate와 Nginx를 거쳐 컨테이너에 도착하기까지
