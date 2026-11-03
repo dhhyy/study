@@ -6,3 +6,5 @@
 2. [FortiGate의 SSH 포트포워딩과 접근 정책 이해하기](fortigate-ssh-port-forwarding.md)
 3. [FortiGate Virtual Server의 HTTPS 도메인 분기 이해하기](fortigate-https-host-routing.md)
 4. [공인 IP 하나에서 운영·개발 HTTPS를 분리하기 어려운 이유](single-public-ip-production-development-https-routing.md)
+5. [Nginx·Docker의 요청 전달과 포트 구조 이해하기](nginx-docker-request-routing.md)
+6. [서비스 확장과 네트워크 접속 문제 점검하기](network-service-expansion-and-troubleshooting.md)
