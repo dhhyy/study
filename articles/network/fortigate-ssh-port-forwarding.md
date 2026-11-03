@@ -1,13 +1,13 @@
 ---
 title: "FortiGate의 SSH 포트포워딩과 접근 정책 이해하기"
 type: article
-status: ready
+status: published
 created:
 updated: 2026-11-03
 tags:
   - network
   - infrastructure
-published_url:
+published_url: https://github.com/dhhyy/study/blob/develop/articles/network/fortigate-ssh-port-forwarding.md
 ---
 <h1 style="text-align: center;">FortiGate의 SSH 포트포워딩과 접근 정책 이해하기</h1>
 <p style="text-align: center;"><em>하나의 공인 IP 뒤에서 SSH 요청이 서버를 찾아가는 과정</em><br>

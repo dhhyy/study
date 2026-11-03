@@ -1,13 +1,13 @@
 ---
 title: "서비스 확장과 네트워크 접속 문제 점검하기"
 type: article
-status: ready
+status: published
 created:
 updated: 2026-11-03
 tags:
   - network
   - infrastructure
-published_url:
+published_url: https://github.com/dhhyy/study/blob/develop/articles/network/network-service-expansion-and-troubleshooting.md
 ---
 <h1 style="text-align: center;">서비스 확장과 네트워크 접속 문제 점검하기</h1>
 <p style="text-align: center;"><em>서비스 추가에 필요한 설정과 접속 실패 시 확인할 요청 경로</em><br>

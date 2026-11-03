@@ -1,13 +1,13 @@
 ---
 title: "FortiGate Virtual Server의 HTTPS 도메인 분기 이해하기"
 type: article
-status: ready
+status: published
 created:
 updated: 2026-11-03
 tags:
   - network
   - infrastructure
-published_url:
+published_url: https://github.com/dhhyy/study/blob/develop/articles/network/fortigate-https-host-routing.md
 ---
 <h1 style="text-align: center;">FortiGate Virtual Server의 HTTPS 도메인 분기 이해하기</h1>
 <p style="text-align: center;"><em>FortiGate Virtual Server로 HTTPS 요청을 내부 서비스에 전달하는 과정</em><br>

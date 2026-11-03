@@ -1,13 +1,13 @@
 ---
 title: "Nginx·Docker의 요청 전달과 포트 구조 이해하기"
 type: article
-status: ready
+status: published
 created:
 updated: 2026-11-03
 tags:
   - network
   - infrastructure
-published_url:
+published_url: https://github.com/dhhyy/study/blob/develop/articles/network/nginx-docker-request-routing.md
 ---
 <h1 style="text-align: center;">Nginx·Docker의 요청 전달과 포트 구조 이해하기</h1>
 <p style="text-align: center;"><em>FortiGate 뒤에서도 Nginx와 Docker가 필요한 이유</em><br>
