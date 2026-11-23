@@ -1,7 +1,7 @@
 ---
 title: "FortiGate의 HTTPS 처리 흐름: TLS 종료부터 Nginx 전달까지"
 type: learning
-status: ready
+status: published
 created:
 updated: 2026-11-05
 tags:
@@ -9,7 +9,7 @@ tags:
   - fortigate
   - https
   - nginx
-published_url:
+published_url: https://github.com/dhhyy/study/blob/develop/learning/network/fortigate-https-request-flow.md
 ---
 
 # FortiGate의 HTTPS 처리 흐름: TLS 종료부터 Nginx 전달까지
