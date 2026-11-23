@@ -28,6 +28,7 @@
 | 글 | 다루는 내용 |
 | --- | --- |
 | [TLS Certificates: Fundamentals, Issuance, and Renewal](learning/tls-certificates.md) | TLS 인증서 개념, 발급, 갱신 (Certbot, Nginx) |
+| [FortiGate의 HTTPS 처리 흐름: TLS 종료부터 Nginx 전달까지](learning/network/fortigate-https-request-flow.md) | 그림 4장으로 보는 인증서, Host 분기, 방화벽 정책, Nginx 전달 |
 
 ## 폴더 구조
 
@@ -38,4 +39,5 @@
 ├── articles/
 │   └── network/                        # 네트워크 운영 시리즈
 └── learning/                           # 학습 노트
+    └── network/                        # 네트워크 학습 노트
 ```
